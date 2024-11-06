@@ -17,6 +17,8 @@ theme:
    - navigation.expand
    # -toc.integrate
    - navigation.top
+   - navigation.footer
+
 
 nav:
   - Home: index.md

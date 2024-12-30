@@ -1,18 +1,43 @@
-## Early Life 
-Michael Jeffrey Jordan, conosciuto anche con le sue iniziali MJ[4] (Brooklyn, 17 febbraio 1963), è un imprenditore, ex cestista ed ex giocatore di baseball statunitense.
+## PIAZZE
+#A cosa servono le piazze?
+
+In tutte le epoche storiche la piazza ha servito come luogo e centro di riunione dei cittadini disimpegnando massimamente queste funzioni: politica (comizî, parlamenti), commerciale (fiere, mercati), religiosa (processioni, sacre rappresentazioni, sagrati).
+Dal latino platea, strada larga (greco plateia largo, spazioso), indica uno spazio libero, circondato da edifici di significativa qualità architettonica e di particolare prestigio civile o religioso che attribuiscono alla piazza funzioni diversificate in rapporto al tessuto sociale ed economico dell’abitato.
 
 
-Soprannominato Air Jordan[3] e His Airness[5] per le sue qualità atletiche e tecniche, fu eletto nel 1999 "il più grande atleta nordamericano del XX secolo" dal canale televisivo sportivo ESPN.[6] Negli anni ha acquisito molta fama sul campo che lo ha reso un'icona dello sport,[7] al punto da spingere la Nike a dedicargli una linea di scarpe da pallacanestro chiamata Air Jordan, introdotta nel 1984.[8]
+## PIAZZA GARIBALDI
+Piazza Garibaldi è una piazza di Napoli situata al limite dei quartieri Pendino, Mercato, San Lorenzo e Zona Industriale.
+È una delle piazze più importanti e affollate della città in quanto dal 1866 si affaccia su di essa la stazione Napoli Centrale, nonché una stazione della linea 1, linea 2 e della Circumvesuviana.
+La piazza nasce dopo l'Unità d'Italia, con il collocamento del nuovo scalo ferroviario lungo la strada dei fossi (attuale corso Garibaldi). Dapprima fu chiamata piazza della stazione o della Ferrovia fino al 1891 quando Giuseppe Saredo deliberò che si chiamasse piazza dell'Unità Italiana.
 
-Giocò per tre anni all'Università della Carolina del Nord a Chapel Hill, dove guidò la squadra alla vittoria del campionato nazionale NCAA nel 1982. Fu poi scelto per terzo al Draft NBA 1984 dai Chicago Bulls e diventò in breve tempo una delle stelle della lega, contribuendo a diffondere la NBA a livello mondiale negli anni '80 e '90.[9][10] Nel 1991 vinse il suo primo titolo NBA con i Bulls, per poi ripetersi con altri due successi nel 1992 e nel 1993, aggiudicandosi un three-peat, dopo il quale si ritirò per intraprendere una carriera nel baseball. Tornò ai Bulls nel 1995 e li condusse alla vittoria di un altro three-peat (1996, 1997 e 1998). Si ritirò una seconda volta nel 1999, per poi tornare come membro dei Washington Wizards dal 2001 al 2003, per poi ritirarsi definitivamente. Durante la sua carriera professionistica rappresentò anche la nazionale di pallacanestro degli Stati Uniti d'America, vincendo quattro medaglie d'oro, tra cui due ai Giochi olimpici di Los Angeles 1984 e Barcellona 1992.
+L'attuale assetto risale agli inizi anni sessanta del Novecento, quando la vecchia stazione fu demolita e ricostruita in posizione più arretrata; di conseguenza, la piazza fu notevolmente ingrandita e nel suo sottosuolo fu ricostruito lo scalo di Napoli Piazza Garibaldi ; l'odierna stazione venne completata nel 1960.
 
-## College Career
-I riconoscimenti ottenuti a livello individuale includono sei MVP delle finali,[11] dieci titoli di miglior marcatore (entrambi record), cinque MVP della regular season, dieci selezioni All-NBA First Team e nove nell'All-Defensive First Team, quattordici partecipazioni all'NBA All-Star Game, tre MVP dell'All-Star Game e un NBA Defensive Player of the Year Award. Detiene i record NBA per la media punti più alta nella storia della regular season (30,12 punti a partita) e nella storia dei playoffs (33,45 punti a partita).[12]
+La nuova piazza tuttavia fu concepita esclusivamente per gestire il crescente traffico automobilistico e fu occupata al centro dalla cosiddetta proboscide che partiva dalla copertura della stazione: una grande pensilina per accogliere lo stazionamento degli autobus, demolita alla fine dell'anno 2000.
 
-Fu introdotto due volte nella serie Naismith Memorial Basketball Hall of Fame: nel 2009[13] per la sua carriera individuale e nel 2010 come membro del Dream Team.[14] Diventò membro della FIBA Hall of Fame nel 2015.[15] Dal 2010 al 2023 è stato il principale azionista e presidente degli Charlotte Hornets dell'NBA ed è attualmente proprietario oltreché fondatore del team 23XI Racing della NASCAR Cup Series. Il 22 novembre 2016 fu insignito dal presidente USA Barack Obama della medaglia presidenziale della libertà, la più alta onorificenza civile statunitense.[16]
+## PIAZZA GARIBALDI PRIMA E DOPO
+La porta della città non ha sempre avuto la conformazione attuale. Nel 1867 fu inaugurata la stazione storica in stile rinascimentale, demolita un secolo dopo.
+La storia di piazza Garibaldi è legata a doppio filo a quello della stazione centrale. Prima del 1860, però, in quel luogo non c'era alcuno scalo ferroviario. Napoli era servita da due stazioni, entrambe collocate su quello che oggi conosciamo come corso Garibaldi. 
+Solo nel 1867, fu realizzata una stazione centrale in quella che poi prese il nome di piazza Garibaldi. Si trattava di un edificio in stile rinascimentale con colonnato e rigogliosi giardini di fronte. Dal 1925, però, l'aumento del traffico ferroviario portò a una profonda trasformazione che dura ancora oggi. 
 
-## aiuto
-I riconoscimenti ottenuti a livello individuale includono sei MVP delle finali,[11] dieci titoli di miglior marcatore (entrambi record), cinque MVP della regular season, dieci selezioni All-NBA First Team e nove nell'All-Defensive First Team, quattordici partecipazioni all'NBA All-Star Game, tre MVP dell'All-Star Game e un NBA Defensive Player of the Year Award. Detiene i record NBA per la media punti più alta nella storia della regular season (30,12 punti a partita) e nella storia dei playoffs (33,45 punti a partita).[12]
+## ENTANGLEMENT
+Entanglement" (in inglese, "groviglio", "intreccio") in meccanica quantistica indica un legame fra particelle. È definito da una funzione, chiamata funzione d'onda di un sistema, che descrive le proprietà delle particelle come fossero un unico oggetto, anche se le particelle si trovano ad enorme distanza. Questa correlazione permette alla prima particella di influenzare la seconda istantaneamente, e viceversa.
 
-Fu introdotto due volte nella serie Naismith Memorial Basketball Hall of Fame: nel 2009[13] per la sua carriera individuale e nel 2010 come membro del Dream Team.[14] Diventò membro della FIBA Hall of Fame nel 2015.[15] Dal 2010 al 2023 è stato il principale azionista e presidente degli Charlotte Hornets dell'NBA ed è attualmente proprietario oltreché fondatore del team 23XI Racing della NASCAR Cup Series. Il 22 novembre 2016 fu insignito dal presidente USA Barack Obama della medaglia presidenziale della libertà, la più alta onorificenza civile statunitense.[16]
+Paragone piazza garibaldi, intrecci su:  piano culturale, economico sociale
 
+## MULTICULTURALISMO
+
+Il termine multiculturalismo identifica una società in cui più culture, anche molto differenti l'una dall'altra, convivono mantenendo ognuna la propria identità. Pur potendo avere interscambi, conservano quindi le peculiarità del proprio gruppo sociale. Le minoranze in particolare mantengono il loro diritto ad esistere, senza omologarsi o fondersi ad una cultura predominante, diluendo o perdendo quindi la propria identità.
+
+## TORONTO - MULTICULTURALISMO
+Toronto è la metropoli più grande e cosmopolita del Canada, nonché la sua capitale culturale, economica e amministrativa. Con oltre 5 milioni di abitanti, è una città che si distingue per la sua estensione e per un incredibile mix etnico, che la rende la metropoli più multiculturale del pianeta. Abitata da persone provenienti da oltre 80 paesi, Toronto ospita una varietà di culture, tradizioni e lingue che coesistono armoniosamente, tra cui il cinese, l'italiano, lo spagnolo e il portoghese, oltre all'inglese e al francese. Ben 180 idiomi diversi sono parlati nella città, e il 51% dei suoi residenti è nato al di fuori del Canada.
+
+Questa straordinaria diversità non è solo una caratteristica demografica, ma un vero e proprio elemento identitario che ha plasmato l’evoluzione di Toronto, conferendole un fascino unico. I suoi quartieri vivono di una straordinaria mescolanza culturale, dove ogni angolo racconta una storia diversa, dalla tradizione europea all’influenza asiatica, dall’impronta sudamericana alla cultura indiana e musulmana. Grazie alla sua apertura e alla convivenza pacifica tra etnie e nazionalità, Toronto è oggi una delle città più sicure del continente americano e la quarta più sicura al mondo.
+
+Questa melodia multietnica è frutto di un lungo processo storico che affonda le radici nei primi abitanti della regione, i popoli Irochesi, che nel XV secolo erano già presenti nelle terre dove ora sorge Toronto. Il nome della città, che deriva probabilmente dalla lingua irochesa, potrebbe significare "luogo di incontro" o "terra dagli alberi nell'acqua", testimoniando un legame profondo con la natura e la convivialità.
+
+Toronto è anche una città che ha visto crescere una fiorente comunità di immigrati italiani, che dopo la Seconda Guerra Mondiale hanno contribuito in modo significativo allo sviluppo economico e sociale del Paese. Con circa 1,3 milioni di italo-canadesi, il Canada ospita la sesta più grande comunità italiana al mondo, e nell'area di Toronto vivono circa 429.380 persone di origine italiana. L'italiano è la terza lingua più parlata nel Paese e la prima tra quelle non ufficiali, un segno tangibile dell'importante eredità culturale che gli italiani hanno lasciato e continuano a lasciare nella città.
+
+Toronto è, insomma, una città dalle mille sfaccettature, che ha saputo integrare passato e presente, tradizione e innovazione, creando un ambiente dove culture diverse non solo coesistono, ma si influenzano reciprocamente, dando vita a una comunità dinamica e sempre in evoluzione. Una città che si è meritata una reputazione brillante, tanto da essere una delle mete preferite da expat, turisti e imprenditori di tutto il mondo.
+
+##APPUNTI 
+![a](./appunti.jpg)

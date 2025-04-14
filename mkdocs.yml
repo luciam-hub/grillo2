@@ -32,4 +32,8 @@ nav:
   - About: 
     - Biografia: about/about.md
     - Documentazione: about/childhood.md
+  - Documentazione:
+    - documentazione/18dic/18dic.md
+    - documentazione/19dic/19dic.md
+    - documentazione/20dic/20dic.md
 

@@ -20,8 +20,7 @@ Amina è una donna senegalese che ha un ristorante col marito in via Milano. E' 
 # Abdoul
 Abdoul è un commerciante del mercato senegalese che abbiamo conosciuto in questi giorni, e ci ha permesso di fare alcuni scatti ai suoi prodotti esportati dall'Arabia.
 
-![a](./mercato.jpeg)
-![a](./mercato2.jpeg)
+
 
 
 
